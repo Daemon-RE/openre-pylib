@@ -38,3 +38,6 @@ a.create('filename.png') # Файл аватарки юзера, сохраня�
 * [Demotivator() - подробная документация](./docs/demotivator.md)
 * [Quote() - подробная документация](./docs/quote.md)
 * [Возможные ошибки](./docs/errors.md)
+
+### Credits
+* [SmpleDemotivators](https://github.com/Infqq/simpledemotivators)
