@@ -11,7 +11,11 @@
    ```sh
    pip3 install https://github.com/Daemon-RE/openre-pylib/archive/main/openre-pylib.zip --upgrade
    ```
-
+2) Стабильная версия через PyPI: 
+   
+   ```sh
+   pip3 install orpl
+   ```
 
 На Windows: pip
 
